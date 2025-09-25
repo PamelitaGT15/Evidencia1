@@ -32,8 +32,8 @@ En la versión final permitirá:
 - Se irán publicando ejemplos de ejecución en esta sección conforme avance el desarrollo.
 ---
 ## Créditos
-Autora: Pamela González
-Profesor: José Alfredo Jiménez Hernández
+- Autora: Pamela González
+- Profesor: José Alfredo Jiménez Hernández
 
 ---
 ## Licencia
