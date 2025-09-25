@@ -13,7 +13,7 @@ El sistema permitirá realizar las siguientes acciones principales:
 ## Instalación y configuración
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/usuario/repositorio.git](https://github.com/PamelitaGT15/Evidencia1.git)
+   git clone https://github.com/PamelitaGT15/Evidencia1.git
 2. Asegúrate de tener instalado Java JDK 8 o superior.
 3. Compila el programa con:
 javac Main.java
