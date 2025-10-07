@@ -31,6 +31,19 @@ En la versión final permitirá:
 - Iniciar sesión con usuario administrador para el control de acceso.
 - Se irán publicando ejemplos de ejecución en esta sección conforme avance el desarrollo.
 ---
+## Evidencia de ejecución
+## Login
+![Login](docu/Inicio.png)
+
+## Alta de doctor
+![Alta doctor](docu/Doctor.png)
+
+## Alta de paciente
+![Alta paciente](docu/Paciente.png)
+
+## Listado
+![Listado](docu/Lista.png)
+---
 ## Créditos
 - Autora: Pamela González
 - Profesor: José Alfredo Jiménez Hernández
