@@ -29,7 +29,6 @@ En la versión final permitirá:
 - Registrar doctores y pacientes.
 - Crear y gestionar citas.
 - Iniciar sesión con usuario administrador para el control de acceso.
-- Se irán publicando ejemplos de ejecución en esta sección conforme avance el desarrollo.
 ---
 ## Evidencia de ejecución
 ## Login
@@ -43,6 +42,14 @@ En la versión final permitirá:
 
 ## Listado
 ![Listado](docu/Lista.png)
+
+## Ejecución
+
+Descargar el archivo Evidencia1.jar desde la carpeta out/artifacts.
+
+Ejecutar con:
+java -jar Evidencia1.jar
+
 ---
 ## Créditos
 - Autora: Pamela González
