@@ -27,3 +27,22 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignorar la carpeta de base de datos
+/db/
+
+# Ignorar archivos temporales de IntelliJ IDEA
+.idea/
+
+# Ignorar archivos de compilación
+/out/
+*.class
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar empaquetados
+*.jar
+*.war
+*.ear
